@@ -1,0 +1,27 @@
+{
+  "name": "proiect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnuCameliaW/Proiect-Node.git"
+  },
+  "author": "camelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnuCameliaW/Proiect-Node/issues"
+  },
+  "homepage": "https://github.com/OnuCameliaW/Proiect-Node#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6"
+  }
+}
